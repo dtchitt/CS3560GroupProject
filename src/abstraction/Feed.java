@@ -1,7 +1,5 @@
 package abstraction;
 
-import java.util.List;
-
 import implementation.FeedType;
 import messages.IMessage;
 
