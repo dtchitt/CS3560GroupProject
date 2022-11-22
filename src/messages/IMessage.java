@@ -1,6 +1,9 @@
-package helper;
+package messages;
 
-//A blank interace which all message types will inherent this.
+//An interace which all message types will inherent.
 public interface IMessage {
 	
+	public void add();
+
+	public String display();
 }

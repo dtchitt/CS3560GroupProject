@@ -1,5 +1,5 @@
 package implementation;
 
-public class TweetFeed {
+public class TweetFeed implements FeedType {
 	
 }
